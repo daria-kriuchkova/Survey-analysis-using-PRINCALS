@@ -303,4 +303,4 @@ As the next step of my project I will:
 [image8]:images/princals_all.png
 [image9]:images/princals_filter.png
 [image8]:images/princals_all.png
-[image9]:images/princals_filtered.png
+[image9]:images/princals_final.png
