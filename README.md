@@ -193,7 +193,7 @@ To better understand my position on PC1 vs PC2, I will rotate the coordinates to
 
 *Fig 6: My top candidates according to the DR Candidate test*
 
-The test from  ([DR](https://www.dr.dk/nyheder/politik/kommunalvalg/kandidattest), suggests that most of my top candidates are from **Radikale Venstre** with one from **Alternativet**.
+[The test from DR](https://www.dr.dk/nyheder/politik/kommunalvalg/kandidattest), suggests that most of my top candidates are from **Radikale Venstre** with one from **Alternativet**.
 
 * A little noise: it’s clear that most parties have internal consensus about most issues, so the results are likely to be populated with the same party.  
 * While they do agree on most questions, some of them disagree on the ones most important to me.
