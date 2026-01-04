@@ -302,5 +302,5 @@ As the next step of my project I will:
 [image7]:images/dr_result.png
 [image8]:images/princals_all.png
 [image9]:images/princals_filter.png
-[image8]:images/princals_all.png)
-[image9]:(images/princals_filter.png)
+[image8]:images/princals_all.png
+[image9]:images/princals_filter.png
