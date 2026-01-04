@@ -108,7 +108,7 @@ For the simplicity of the analysis I picked standard initial values that have op
 **PRINCALs** is an iterative function that treats the numeric scores as ordinal, runs the Principal Component Analysis on them and evaluates how well the resulting components explain the variation in the dataset. Based on the evaluation, these scores are adjusted to better fit the component structure while preserving the original order. The process is repeated iteratively, and stops when category values and explained variance stabilize and  further iterations do not meaningfully improve the PCA solution. In my case it took 16 iterations.
 
 <p align="center">
-  <img src="images/transplot.png" width="100%">
+  <img src="images/transplot.png" width="80%">
 </p>
 
 
