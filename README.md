@@ -293,7 +293,7 @@ As the next step of my project I will:
    2. Niche Key Issues  
 2. Make a responsive Shiny app
 
-[image1]:(images/app-likert.png)
+[image1]:(images/likert.png)
 [image2]:(images/transplot.png)
 [image3]:(images/scree_plot.png)
 [image4]:(images/pc1_pc2.png)
