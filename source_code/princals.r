@@ -254,18 +254,6 @@ plot_princals_loadings <- function(
 
 plot_princals_loadings(fit_princals, likert_names, dims_2d = c(1,2), n_top = 5)
 
-# Define the output file path
-output_file <- "pc1_pc2_rot.png"
-
-# Open PNG device
-png(filename = output_file, width = 1200, height = 1200, res = 150)
-
-# Call your plotting function
-plot_princals_loadings(fit_princals, likert_names, rotation_deg = 190, dims_2d = c(1,2), n_top = 5)
-
-# Close the device to save the file
-dev.off()
-
 plot_princals_loadings(fit_princals, likert_names, dims_2d = c(1,3), n_top = 5)
 
 # PC2 vs PC3 after removing PC1 influence
