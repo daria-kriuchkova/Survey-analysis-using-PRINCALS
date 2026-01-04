@@ -164,12 +164,12 @@ Since PC1 explains 50% of the variance, I will extract the residuals from PC2 an
 * PC3 is defined by disagreement with the statement that there are too many high-rise buildings (q16).  
 * Top contributors to D2 are  
   * Agreement with the need to prepare shelters (q9).  
-  * Disagreement with increasing prices for leisure centers (q12).  
+  * Disagreement with increasing prices for museums and theaters (q12).  
   * Disagreement with closing down central parking spaces (q19).
 
   These questions are thematically different, so there is **no clear non-speculative way to describe it**.  
 
-  Agreement with q12 and q19 would generally mean belonging to different general alignments (private vs public). However, both q12 and q19 represent the extreme ends of each alignment,  while q9 represents mainstream European concerns about possible emergencies. Therefore, I could loosely **interpret PC2** as measuring **radical vs mainstream** end within each camp. Another way to contextualise these questions would be **youth vs family orientation**, as people who have kids are more likely to care about the leisure centers, parking spaces and organized shelters in case of emergencies.
+  Agreement with q12 and q19 would generally mean belonging to different general alignments (private vs public). However, both q12 and q19 represent the extreme ends of each alignment,  while q9 represents mainstream European concerns about possible emergencies. Therefore, I could loosely **interpret PC2** as measuring **radical vs mainstream** end within each camp. Another way to contextualise these questions would be **youth vs family orientation**, as people who have kids are more likely to care about affordable cultural experience, parking spaces and organized shelters in case of emergencies.
 
 ## Rotating the axes 
 
